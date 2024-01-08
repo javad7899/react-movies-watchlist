@@ -6,7 +6,7 @@ watchlist.
 # Live View
 https://javad7899.github.io/react-movies-watchlist/
 
-# App Gif
+# App's Gif
 ![watchlist](https://github.com/javad7899/react-movies-watchlist/assets/90629580/f9d56b5a-40d3-408b-8bbd-d6163127123e)
 
 ## Features
