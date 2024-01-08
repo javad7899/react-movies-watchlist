@@ -3,7 +3,7 @@
 This is a React app that allows users to search for movies and add them to a watchlist. Users can also mark movies as watched and remove them from the watchlist.
 
 
-# App's Gif
+# App Gif
 ![watchlist](https://github.com/javad7899/my-watchlist/assets/90629580/b9182a9d-aa69-4bb6-9637-efd5e69f8646)
 
 ## Features
