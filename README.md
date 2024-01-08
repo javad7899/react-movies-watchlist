@@ -4,7 +4,7 @@ This is a React app that allows users to search for movies and add them to a wat
 
 
 # App Gif
-![watchlist](https://github.com/javad7899/my-watchlist/assets/90629580/b9182a9d-aa69-4bb6-9637-efd5e69f8646)
+![watchlist](https://github.com/javad7899/react-movies-watchlist/assets/90629580/f9d56b5a-40d3-408b-8bbd-d6163127123e)
 
 ## Features
 - Search TMDB for movies
